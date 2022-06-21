@@ -1,0 +1,5 @@
+index.html:
+-Agregué keywords: "Arctic Monkeys, gira, Europea, Norteamericana, Sudamericana, Argentina, Brasil, Chile, UK, Italia, España, EE.UU, Canadá"
+-Agregué description: "Pagina principal de Arctic monkeys, donde podrá encontrar las proximas fechas de recitales e incursionar en las demas secciones de la página"
+-Agregué Title: ARCTIC MONKEYS|Página Principal. (Relacionandola de esa forma únicamente al index de lo que va a ser mi página web)
+-Revisé de redacción de texto,y posibles errores ortográficos.

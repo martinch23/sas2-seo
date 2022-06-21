@@ -1,0 +1,43 @@
+header {
+  color: #f1ba03;
+  font-family: "Times New Roman", Times, serif;
+}
+
+nav {
+  color: #f1ba03;
+}
+
+nav .nav-link {
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+nav .nav-link:hover {
+  color: white;
+  background-color: black;
+}
+
+.container h2 {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.container table .titulostabla {
+  color: #ec1414;
+}
+
+.container table .contenidotabla {
+  color: white;
+}
+
+footer {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-color: black;
+}
+/*# sourceMappingURL=estilo.css.map */

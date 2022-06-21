@@ -1,0 +1,32 @@
+.container{
+          h2{color: $Letraprincipal;
+             font-family: $Fuentemainyfooter;
+            text-align: center;}}
+
+.tabla1{
+    @include tablas
+
+}
+
+.tabla2{
+    @include tablas
+
+}
+
+.tabla3{
+    @include tablas
+
+}
+
+@mixin tablas {
+
+    .titulostabla{
+        color:$Colortitulostabla;
+        text-align: center;
+    }
+    .contenidotabla{
+        color: $Colorletratabla;
+        text-align: center;
+    }
+
+}

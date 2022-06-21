@@ -1,0 +1,40 @@
+.titulo {
+  color: white;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 6rem;
+  font-weight: bold;
+  text-align: center;
+  background-image: url(https://i.pinimg.com/originals/9e/6e/3d/9e6e3d27cd762b6a9956b08a7b1a1944.jpg);
+  background-size: 200px;
+  background-position: center; }
+
+nav {
+  color: #f1ba03; }
+  nav .nav-link {
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #f1ba03;
+    font-size: 1rem; }
+    nav .nav-link:hover {
+      color: white;
+      background-color: black; }
+
+.container h2 {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center; }
+
+.container table .titulostabla {
+  color: #b6c55d;
+  text-align: center; }
+
+.container table .contenidotabla {
+  color: white;
+  text-align: center; }
+
+footer {
+  color: #f1ba03;
+  font-family: Arial, Helvetica, sans-serif; }
+
+body {
+  background-color: black; }
