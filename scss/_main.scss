@@ -3,9 +3,17 @@
              font-family: $Fuentemainyfooter;
             text-align: center;}}
 
-.tabla1{
-    @include tablas
+ @mixin tablas {
 
+    .titulostabla{
+                 color:$Colortitulostabla;
+                 text-align: center;}
+    .contenidotabla{
+                 color: $Colorletratabla;
+                 text-align: center;}
+
+   .tabla1{
+    @include tablas
 }
 
 .tabla2{
@@ -18,15 +26,5 @@
 
 }
 
-@mixin tablas {
-
-    .titulostabla{
-        color:$Colortitulostabla;
-        text-align: center;
-    }
-    .contenidotabla{
-        color: $Colorletratabla;
-        text-align: center;
-    }
 
 }
